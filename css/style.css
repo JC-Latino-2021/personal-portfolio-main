@@ -779,7 +779,7 @@ img {
 /* blob animation */
 
 .hero-img {
-    background-image: url("/img/JC-Profile-Photo-2.jpg");
+    background-image: url("../img/JC-Profile-Photo-2.jpg");
     width: 15rem;
     height: 15rem;
     background-size: cover;
